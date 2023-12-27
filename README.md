@@ -33,7 +33,7 @@ de forma que ao final do fluxo eles estejam automatizados, tratados e prontos pa
 ![Descrição da Imagem](img/Transformation.png)
 
 ### Pentaho Data Integration - Jobs:
-![Descrição da Imagem](Pentaho\img\JOB.png)
+![Descrição da Imagem](Pentaho/img/JOB.png)
 
 ### Considerações finais:
 - **@Desenvolvedor:** Mateus Santos de Jesus
