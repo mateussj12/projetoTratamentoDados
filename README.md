@@ -1,4 +1,4 @@
-# Sistema de Tratamento de Dados com Pentaho 
+# Tratamento de Dados com Pentaho 
 Esse projeto faz o tratamento de dados a partir de um arquivos CSV e XLS com dados da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES),
 onde é enviado os dados para um banco de dados postgresql desenvolvido em ambiente linux na Cloud Azure.
 Com a utilização da ferramenta Pentaho Data Integration é feito o carregamento desses dados, o filtro e o envio para as tabelas DM que serão consumidas
