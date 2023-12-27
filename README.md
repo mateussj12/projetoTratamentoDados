@@ -1,4 +1,4 @@
-# Sistema ETL para tratamento de Dados 
+# Sistema ETL Para Tratamento de Dados 
 Esse projeto faz o tratamento de dados a partir de um arquivos CSV e XLS com dados da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES),
 onde é enviado os dados para a tabela Staging em um banco de dados postgresql desenvolvido em ambiente linux na Cloud Azure,
 com a utilização da ferramenta Pentaho Data Integration é feito o carregamento desses dados, o filtro e o envio para as tabelas DM que serão consumidas
@@ -30,7 +30,7 @@ de forma que ao final do fluxo eles estejam automatizados, tratados e prontos pa
 ![Descrição da Imagem](img/)
 
 ### Pentaho Data Integration - Tranformação:
-![Descrição da Imagem](img/Transformation.png)
+![Descrição da Imagem](Pentaho/img/Transformation.png)
 
 ### Pentaho Data Integration - Jobs:
 ![Descrição da Imagem](Pentaho/img/JOB.png)
