@@ -30,10 +30,10 @@ pelas aplicações. Por fim, é iniciado o JOB que envia uma mensagem no e-mail 
 ### Diagrama do fluxo:
 ![Descrição da Imagem](img/Diagrama%20em%20branco.png)
 
-### Pentaho Data Integration - Tranformação:
+### Pentaho Data Integration - Transformação:
 ![Descrição da Imagem](img/Transformation.png)
 
-### Pentaho Data Integration - Jobs:
+### Pentaho Data Integration - Trabalhos:
 ![Descrição da Imagem](img/JOB.png)
 
 ### Considerações finais:
